@@ -1,4 +1,4 @@
-<img width="1052" height="458" alt="image" src="https://github.com/user-attachments/assets/a75dc8eb-f330-4a9d-a630-50040b23c466" /># Product Matching Engine
+# Product Matching Engine
 
 A Google Apps Script-based fuzzy product matching system designed to improve product mapping workflows by automating search, normalization, and similarity scoring.
 
