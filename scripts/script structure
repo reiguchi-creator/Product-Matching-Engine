@@ -1,0 +1,28 @@
+**
+ * Product Matching Engine
+ * -----------------------------------
+ * Google Apps Script-based fuzzy
+ * product matching system for
+ * product normalization and
+ * similarity scoring workflows.
+*
+
+CONFIG
+
+MAIN FUNCTIONS
+- searchProduct()
+- addToNew()
+- clearSearch()
+
+MATCHING FUNCTIONS
+- similarity()
+- tokenSimilarity()
+- editDistance()
+
+UTILITY FUNCTIONS
+- tokenize()
+- cleanText()
+- normalizeSize()
+
+DATA FUNCTIONS
+- getCachedData()
